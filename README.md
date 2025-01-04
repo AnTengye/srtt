@@ -17,7 +17,7 @@ files, specifically subtitles in SRT format, from one language to another.
 To install srtt, you need to have Go installed on your machine. Follow these steps to install srtt:
 
 ```bash
-git clone https://github.com/YourGitHubUsername/srtt.git
+git clone https://github.com/AnTengye/srtt.git
 cd srtt
 go build -o srtt
 ```
